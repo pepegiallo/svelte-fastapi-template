@@ -1,0 +1,3 @@
+VERSION = '0.0.1'
+STATUS_OK = 'ok'
+STATUS_ERROR = 'error'
